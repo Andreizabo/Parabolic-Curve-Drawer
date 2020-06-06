@@ -1,5 +1,5 @@
 # Parabolic-Curve-Drawer  
-![Image](https://github.com/Andreizabo/Parabolic-Curve-Drawer/blob/master/Pictures/Image.png)  
+![Image](https://github.com/Andreizabo/Parabolic-Curve-Drawer/blob/master/Pictures/Image.jpg)  
 ---  
 A program that draws parabolic curves using straight lines.  
 ## Languages & Technologies  
